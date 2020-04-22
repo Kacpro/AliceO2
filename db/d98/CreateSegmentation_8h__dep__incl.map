@@ -1,0 +1,8 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Mapping/Factory/include/MCHMappingFactory/CreateSegmentation.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Mapping/Factory/include/MCHMappingFactory/CreateSegmentation.h">
+<area shape="rect" id="node2" href="$d2/d7e/CreateSegmentation_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Mapping\l/Factory/src/CreateSegmentation.cxx" alt="" coords="5,139,267,209"/>
+<area shape="rect" id="node3" href="$d4/dbc/PreClusterFinderMapping_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/PreClustering\l/src/PreClusterFinderMapping.cxx" alt="" coords="291,139,549,209"/>
+<area shape="rect" id="node4" href="$d0/d75/DataDecoderSpec_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Workflow\l/src/DataDecoderSpec.cxx" alt="" coords="573,139,805,209"/>
+<area shape="rect" id="node5" href="$d2/d75/DigitSamplerSpec_8cxx.html" title="Implementation of a data processor to read and send digits. " alt="" coords="829,139,1061,209"/>
+<area shape="rect" id="node6" href="$db/d1c/file-to-digits-workflow_8cxx.html" title="/home/travis/build\l/AliceO2Group/AliceO2\l/Detectors/MUON/MCH/Workflow\l/src/file&#45;to&#45;digits&#45;workflow.cxx" alt="" coords="1085,139,1317,209"/>
+<area shape="rect" id="node7" href="$d0/d5c/PreClusterSinkSpec_8cxx.html" title="Implementation of a data processor to write preclusters. " alt="" coords="1341,139,1573,209"/>
+</map>
